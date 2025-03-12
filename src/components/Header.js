@@ -8,7 +8,7 @@ function Header() {
     <div className='text-white w-fit'>
       <div className='bg-[#131A22] flex items-center w-full'>
       <div className='flex-grow md:flex-grow-0'>
-      <Image width={110} height={40} objectFit='contain' className='w-26 mr-3 ml-2 h-12 text-white p-2 cursor-pointer' src='https://links.papareact.com/f90'/>
+      <Image width={110} height={40} objectFit='contain' className='w-26 mr-3 ml-2 h-12 text-white p-2 cursor-pointer' src='https://links.papareact.com/f90' alt='amazon'/>
       </div>
        <div className='hidden sm:flex items-center flex-grow bg-yellow-600 hover:bg-yellow-500 my-5 rounded-md cursor-pointer'>
        <input className='rounded-l-md flex-grow flex-shrink outline-none text-black px-2 py-2 font-semibold text-sm'/>

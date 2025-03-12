@@ -6,4 +6,8 @@
     .link {
         @apply cursor-pointer hover:underline
     }
+
+    .button {
+        @apply text-xs py-2 rounded-sm bg-gradient-to-t to-yellow-400 from-yellow-200 border border-yellow-300 focus:outline-none active:from-yellow-500;
+    }
 }
